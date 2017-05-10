@@ -6,10 +6,28 @@
     <description>Recent content on MY NAME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2017 10:33:31 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 12:12:44 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Page</title>
+      <link>/about/</link>
+      <pubDate>Wed, 10 May 2017 12:12:44 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About me!</description>
+    </item>
+    
+    <item>
+      <title>Page Title</title>
+      <link>/tutorials/first/</link>
+      <pubDate>Wed, 10 May 2017 12:12:44 -0700</pubDate>
+      
+      <guid>/tutorials/first/</guid>
+      <description>Tutorial coming soon!</description>
+    </item>
     
     <item>
       <title>Hello with Hugo</title>
