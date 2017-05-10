@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MY NAME</title>
-    <link>/</link>
+    <link>https://horeaporutiu.github.io/username.github.io/</link>
     <description>Recent content on MY NAME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 May 2017 12:12:44 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://horeaporutiu.github.io/username.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Page</title>
-      <link>/about/</link>
+      <link>https://horeaporutiu.github.io/username.github.io/about/</link>
       <pubDate>Wed, 10 May 2017 12:12:44 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://horeaporutiu.github.io/username.github.io/about/</guid>
       <description>About me!</description>
     </item>
     
     <item>
       <title>Page Title</title>
-      <link>/tutorials/first/</link>
+      <link>https://horeaporutiu.github.io/username.github.io/tutorials/first/</link>
       <pubDate>Wed, 10 May 2017 12:12:44 -0700</pubDate>
       
-      <guid>/tutorials/first/</guid>
+      <guid>https://horeaporutiu.github.io/username.github.io/tutorials/first/</guid>
       <description>Tutorial coming soon!</description>
     </item>
     
     <item>
       <title>Hello with Hugo</title>
-      <link>/post/hello/</link>
+      <link>https://horeaporutiu.github.io/username.github.io/post/hello/</link>
       <pubDate>Wed, 10 May 2017 10:33:31 -0700</pubDate>
       
-      <guid>/post/hello/</guid>
+      <guid>https://horeaporutiu.github.io/username.github.io/post/hello/</guid>
       <description>Hello, this is my first post.</description>
     </item>
     
